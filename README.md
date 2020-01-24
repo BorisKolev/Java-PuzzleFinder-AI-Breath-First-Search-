@@ -19,3 +19,9 @@ Implementing the BFS.
 
 The output of the program for that current initial state and goal state.
 ![](images/Output.PNG)
+
+# Some of the functionalities.
+![](images/Constructor.PNG)
+![](images/MemberVariables.PNG)
+![](images/snakeMoving.PNG)
+![](images/actionPerformed.PNG)
